@@ -19,31 +19,31 @@ function useReveal() {
 const SERVICES = [
     {
         title: "Home Care",
-        img: "https://images.unsplash.com/photo-1607990281513-2c110a25bd8c?auto=format&fit=crop&w=900&q=85",
+        img: "/images/living_area.png",
         desc: "Also known as Domiciliary care, this service allows individuals to receive necessary support while maintaining their independence in the comfort and familiarity of their own home. We provide person-centred care that fits your routine.",
         features: ["Personal hygiene & dressing", "Medication management", "Meal preparation & nutrition", "Domestic support & chores", "Companionship & social engagement"],
     },
     {
         title: "Live-in Care",
-        img: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=900&q=85",
+        img: "/images/comfort_room.png",
         desc: "Expert round-the-clock support for those who need constant care but prefer to remain in their own homes. A dedicated professional provides continuity of care, safety, and meaningful companionship 24 hours a day.",
         features: ["24-hour presence & safety", "Complete household assistance", "Personalized daily routines", "Emotional & social support", "Specialist condition care"],
     },
     {
         title: "Supported Living",
-        img: "https://images.unsplash.com/photo-1574169208507-84376144848b?auto=format&fit=crop&w=900&q=85",
+        img: "/images/dining_area.png",
         desc: "We empower individuals with complex care needs, such as learning disabilities and autism, to live independently. Our focus is on enabling a full life with the right level of clinical and emotional oversight.",
         features: ["Independence building", "Community integration", "Complex needs management", "Life skills development", "24-hour specialist support"],
     },
     {
         title: "Residential Support",
-        img: "https://images.unsplash.com/photo-1516733225897-1aa73b87c8e8?auto=format&fit=crop&w=900&q=85",
+        img: "/images/hero_care_home.png",
         desc: "We provide experienced and professional staffing solutions for residential and nursing homes. Our team ensures that care standards are maintained with consistency, skill, and genuine clinical authority.",
         features: ["Flexible shift coverage", "Qualified nursing staff", "Experienced care workers", "Seamless continuity of care", "Fully vetted professionals"],
     },
     {
         title: "TDDI / Complex Care",
-        img: "https://images.unsplash.com/photo-1576091160550-2173dad99901?auto=format&fit=crop&w=900&q=85",
+        img: "/images/activities_care.png",
         desc: "Led by a qualified nurse, our Complex Care service provides a safe and skilled approach to managing symptoms and promoting recovery from health conditions, disease, disorder, or injury (TDDI).",
         features: ["Nurse-led clinical care", "Specialist medical procedures", "High-acuity symptom management", "Recovery & rehabilitation support", "Expert clinical oversight"],
     },

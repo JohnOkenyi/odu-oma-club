@@ -67,7 +67,7 @@ export default function AboutPage() {
                         <div className="anim-slide-right">
                             <div className="img-cover shadow-lg" style={{ borderRadius: "var(--r-xl)", overflow: "hidden", aspectRatio: "4/5", position: "relative" }}>
                                 <Image
-                                    src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=85"
+                                    src="/images/activities_care.png"
                                     alt="Clinical Excellence"
                                     fill
                                     style={{ objectFit: "cover" }}
