@@ -21,7 +21,7 @@ const Hero = () => {
             >
                 <div className="absolute inset-0 bg-gradient-to-r from-luxury-charcoal/80 via-luxury-charcoal/20 to-transparent z-10" />
                 <Image
-                    src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&w=1920&q=90"
+                    src="/images/hero_care_home.png"
                     alt="Luxury Care Home Interior"
                     fill
                     priority
@@ -157,7 +157,7 @@ export default function HomePage() {
                                 className="aspect-[4/5] rounded-3xl overflow-hidden relative z-10 shadow-2xl"
                             >
                                 <Image
-                                    src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&w=1200&q=80"
+                                    src="/images/hero_care_home.png"
                                     alt="Luxury Care Home"
                                     fill
                                     className="object-cover"
@@ -231,13 +231,13 @@ export default function HomePage() {
                                     whileHover={{ scale: 0.98 }}
                                     className="aspect-square rounded-2xl overflow-hidden relative shadow-lg"
                                 >
-                                    <Image src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=800&q=80" alt="Living" fill className="object-cover" />
+                                    <Image src="/images/living_area.png" alt="Living" fill className="object-cover" />
                                 </motion.div>
                                 <motion.div
                                     whileHover={{ scale: 0.98 }}
                                     className="aspect-[4/5] rounded-2xl overflow-hidden relative shadow-lg"
                                 >
-                                    <Image src="https://images.unsplash.com/photo-1576091160550-217359f4ecf8?auto=format&fit=crop&w=800&q=80" alt="Dining" fill className="object-cover" />
+                                    <Image src="/images/dining_area.png" alt="Dining" fill className="object-cover" />
                                 </motion.div>
                             </div>
                             <div className="space-y-4 pt-12">
@@ -245,13 +245,13 @@ export default function HomePage() {
                                     whileHover={{ scale: 0.98 }}
                                     className="aspect-[4/5] rounded-2xl overflow-hidden relative shadow-lg"
                                 >
-                                    <Image src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80" alt="Activities" fill className="object-cover" />
+                                    <Image src="/images/activities_care.png" alt="Activities" fill className="object-cover" />
                                 </motion.div>
                                 <motion.div
                                     whileHover={{ scale: 0.98 }}
                                     className="aspect-square rounded-2xl overflow-hidden relative shadow-lg"
                                 >
-                                    <Image src="https://images.unsplash.com/photo-1581578731548-c64695cc6954?auto=format&fit=crop&w=800&q=80" alt="Comfort" fill className="object-cover" />
+                                    <Image src="/images/comfort_room.png" alt="Comfort" fill className="object-cover" />
                                 </motion.div>
                             </div>
                         </div>
@@ -288,7 +288,7 @@ export default function HomePage() {
             <section className="h-[70vh] relative flex items-center justify-center overflow-hidden">
                 <div className="absolute inset-0 bg-luxury-charcoal/40 z-10" />
                 <Image
-                    src="https://images.unsplash.com/photo-1576765608535-5f04d1e3f289?auto=format&fit=crop&w=1920&q=90"
+                    src="/images/hero_care_home.png"
                     alt="Virtual Experience"
                     fill
                     className="object-cover"
